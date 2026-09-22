@@ -1,6 +1,8 @@
 # DevSecOps Jenkins Pipeline
 
-Production-style CI/CD portfolio project demonstrating a Jenkins pipeline with automated testing, SonarQube quality gates, OWASP Dependency-Check, Trivy container scanning, Kubernetes deployment validation, and rollback.
+[![Repository Validation](https://github.com/pranay9-h/devsecops-jenkins-pipeline/actions/workflows/validate.yml/badge.svg?branch=master)](https://github.com/pranay9-h/devsecops-jenkins-pipeline/actions/workflows/validate.yml)
+
+Jenkins-based DevSecOps pipeline with unit tests, SonarQube quality gates, OWASP dependency scanning, Trivy image scanning, Kubernetes deployment checks, and rollback.
 
 > **Portfolio safety:** this repository contains no real credentials. A live run requires your own Jenkins, SonarQube, container registry credentials, Kubernetes/EKS cluster, and configured Jenkins plugins/tools.
 
@@ -261,4 +263,5 @@ Be prepared to explain:
 ## Author
 
 Pranay Saiteja Soppadandi  
-GitHub: https://github.com/pranay9-h
+GitHub: https://github.com/pranay9-h  
+LinkedIn: https://www.linkedin.com/in/pranay-sai-teja-2b257b1a1/
